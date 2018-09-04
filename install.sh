@@ -1,0 +1,1 @@
+cp ohm.sh /usr/local/bin/ohm
